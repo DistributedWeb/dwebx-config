@@ -1,16 +1,16 @@
 {
-  "name": "dat-swarm-defaults",
-  "version": "1.0.2",
-  "description": "Dat Defaults for Discovery Swarm",
+  "name": "dwebx-config",
+  "version": "1.0.0",
+  "description": "DWebX Defaults for Discovery Swarm",
   "main": "index.js",
   "scripts": {
     "test": "standard && tape test.js"
   },
   "keywords": [
-    "dat",
-    "hyperdrive"
+    "dwebx",
+    "ddrive"
   ],
-  "author": "Dat Project Contributors",
+  "author": "DWebX Project Contributors",
   "license": "MIT",
   "devDependencies": {
     "discovery-swarm": "^5.1.3",
@@ -19,10 +19,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/datproject/dat-swarm-defaults.git"
+    "url": "git+https://github.com/distributedweb/dwebx-config.git"
   },
   "bugs": {
-    "url": "https://github.com/datproject/dat-swarm-defaults/issues"
+    "url": "https://github.com/distributedweb/dwebx-config/issues"
   },
-  "homepage": "https://github.com/datproject/dat-swarm-defaults#readme"
+  "homepage": "https://github.com/distributedweb/dwebx-config#readme"
 }

@@ -1,13 +1,13 @@
-var DAT_DOMAIN = 'dat.local'
+var DAT_DOMAIN = 'dwebx.local'
 var DEFAULT_DISCOVERY = [
-  'discovery1.datprotocol.com',
-  'discovery2.datprotocol.com'
+  'discovery1.dwebx.net',
+  'discovery2.dwebx.net'
 ]
 var DEFAULT_BOOTSTRAP = [
-  'bootstrap1.datprotocol.com:6881',
-  'bootstrap2.datprotocol.com:6881',
-  'bootstrap3.datprotocol.com:6881',
-  'bootstrap4.datprotocol.com:6881'
+  'bootstrap1.dwebx.net:6881',
+  'bootstrap2.dwebx.net:6881',
+  'bootstrap3.dwebx.net:6881',
+  'bootstrap4.dwebx.net:6881'
 ]
 
 var DEFAULT_OPTS = {
