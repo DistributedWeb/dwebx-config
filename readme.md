@@ -8,7 +8,7 @@ Use DWebX defaults for `dns` and `dht` servers in [dwebdiscovery](https://github
 
 ### Using Other Discovery Servers
 
-Run discovery servers with [dns-discovery](https://github.com/distributedweb/dns-discovery#cli) or a [bittorrent-dht](https://github.com/webtorrent/bittorrent-dht) server (such as https://github.com/dwebswarm/dht).
+Run discovery servers with [dns-discovery](https://github.com/distributedweb/dns-discovery#cli) or a [bittorrent-dht](https://github.com/webtorrent/bittorrent-dht) server (such as https://github.com/distributedweb/dht).
 
 ## Usage 
 
